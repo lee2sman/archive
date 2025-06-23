@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang='en' prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta property="og:title" content="$title$" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://leetusman.com/archive/$outputfile$" />
+    <meta property="og:image" content="https://leetusman.com/archive/assets/img/$image$" />
+    <title>$title$</title>
+
+    <link rel="stylesheet" href="../assets/css/main.css">
+  </head>
+  <body>
+    <header>
+      <p><a href="../">← Archive</a></p>
+    </header>
+    <main>
+      <article>
+        $if(image)$
+          <img src="../assets/img/$image$" alt="$alt$">
+        $endif$
+
+        $if(title)$
+          <h1>$title$</h1>
+        $endif$
+
+        $if(year)$
+          <p>$year$</p>
+        $endif$
+
+        $if(author)$
+          <strong>$author$</strong>
+        $endif$
+
+        $if(description)$
+          <p>$description$</p>
+        $endif$
+
+        $if(archive_link)$
+          <p><a href="$archive_link$">Hosted at Internet Archive</a></p>
+        $endif$
+
+        $if(license)$
+          <p><em>$license$</em></p>
+        $endif$
+
+        $if(embed_link)$
+          <iframe src="$embed_link$" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+        $endif$
+
+        $body$
+      </article>
+    </main>
+    <footer>
+      <p>Cabinet of Curios is created by <a href="https://leetusman.com">Lee Tusman</a>.</p>
+    </footer>
+  </body>
+</html>

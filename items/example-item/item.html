@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+ <link rel="stylesheet" href="../../assets/css/main.css">
+    <title>
+      {{ title }}
+    </title>
+  </head>
+  <body>
+    <header>
+	  <li><a href="{{ base_url }}">← Back</a></li>
+    </header>
+    <main>
+      <h1>{{ title }}</h1>
+      <p>{{ year }}
+      <strong>{{ author }}</strong>
+      <p>{{ description }}
+      <p><a href="{{ archive_link }}">Interent Archive direct link</a></p>
+      <p><em>license</em></p>
+
+      <iframe src="{{ embed_link }}" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+      {{ content }}
+    </main>
+    <footer>
+      <p>Cabinet of Curios is created by <a href="https://leetusman.com">Lee Tusman</a>.</p>
+    </footer>
+  </body>
+</html>
