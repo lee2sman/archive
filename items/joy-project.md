@@ -6,7 +6,7 @@ year: 2020
 tags: []
 archive_link: https://archive.org/details/electroniccottage.org-the_joy_project_-_electronic_cottage
 embed_link: https://archive.org/embed/electroniccottage.org-the_joy_project_-_electronic_cottage
-image: joyproject.png
+image: joyproject.webp
 alt: album cover for Hal McGee's The Microcassette Diaries - a hand holding a microcassette recorder with thumb on red record button
 license: 
 ---

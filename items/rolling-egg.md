@@ -6,7 +6,7 @@ year: 2018
 tags: [ mothers news, zines, providence, rhode island, jacob berendes, DIY ]
 archive_link: https://archive.org/details/rolling-egg
 embed_link: https://archive.org/embed/rolling-egg
-image: rolling-egg.png
+image: rolling-egg.webp
 alt: Cover of Rolling Egg with a photo and article about the Five Crates of Rats
 license: 
 ---

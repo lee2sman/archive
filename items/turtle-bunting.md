@@ -6,7 +6,7 @@ year: 1990
 tags: [ LOGO, programming, decoration, workshop, flag, vexillology ]
 archive_link: https://archive.org/details/peter-carter-turtle-bunting/
 embed_link: https://archive.org/embed/peter-carter-turtle-bunting/
-image: turtle-bunting.png
+image: turtle-bunting.webp
 alt: Cover of booklet showing flags of the world, black and white reproduction
 license: 
 ---

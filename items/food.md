@@ -6,7 +6,7 @@ year: 1999
 tags: []
 archive_link: https://archive.org/details/white-columns-food/
 embed_link: https://archive.org/embed/white-columns-food/
-image: food.png
+image: food.webp
 alt: Page spread showing text and a black and white image of the FOOD storefront
 license: 
 ---

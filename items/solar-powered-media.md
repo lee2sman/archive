@@ -6,7 +6,7 @@ year: 2021
 tags: []
 archive_link: https://archive.org/details/pasek-piantella-solar-powered/Pasek-Piantella-Solar_Powered/
 embed_link: https://archive.org/embed/pasek-piantella-solar-powered/Pasek-Piantella-Solar_Powered/
-image: solarpowered.jpg
+image: solarpowered.webp
 alt: Cover of Solar Powered Media zine with smiling sun and an audio cable
 license: CC BY-NC-ND
 ---

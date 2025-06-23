@@ -6,7 +6,7 @@ year: 2010
 tags: []
 archive_link: https://archive.org/details/pampinato_fort_thunder
 embed_link: https://archive.org/embed/pampinato_fort_thunder
-image: fort-thunder.png
+image: fort-thunder.webp
 alt: magazine spread with article on left and image of scrawled pile on right along with a man on horse and EAGLE SQUARE red text on blue and yellow background behind the pile
 license: 
 ---

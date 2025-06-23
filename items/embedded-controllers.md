@@ -6,7 +6,7 @@ year: 2020
 tags: [ arduino, c, embedded, LED, programming, maker, controllers]
 archive_link: https://archive.org/details/laboratory-manual-for-embedded-controllers/
 embed_link: https://archive.org/embed/laboratory-manual-for-embedded-controllers/
-image: embedded-controllers.png
+image: embedded-controllers.webp
 alt: cover image for manual with processed cooked image of Arduino
 license: CC BY NC SA 3.0
 ---

@@ -6,7 +6,7 @@ year: 2016
 tags: [programming, art, games, education]
 archive_link: https://archive.org/details/finals-fantasy
 embed_link: https://archive.org/embed/finals-fantasy
-image: finalsfantasylead.jpg
+image: finalsfantasylead.webp
 alt: A person wearing a VR headset, tongue extended, about to lick a stump in the forest.
 license: 
 ---

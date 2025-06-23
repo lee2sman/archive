@@ -6,7 +6,7 @@ year:
 tags: [AI, BASIC, Commodore, DADA, software art, programming, creative code, installation, Inteligencia]
 archive_link: https://archive.org/details/inteligencia-artificial-chullachaqui/
 embed_link: https://archive.org/embed/inteligencia-artificial-chullachaqui/
-image: chullachaqui.png
+image: chullachaqui.webp
 alt: booklet spread showing a Commodore computer screen at an angle with text on left and BASIC code on right.
 license: 
 ---

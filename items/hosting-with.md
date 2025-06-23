@@ -6,7 +6,7 @@ year: 2022
 tags: [ server, zine, feminist server, self-hosting, copyleft, opensource, radical networks, anarchaserver ]
 archive_link: https://archive.org/details/varia-hosting-with-zine/
 embed_link: https://archive.org/embed/pasek-piantella-solar-powered/Pasek-Piantella-Solar_Powered/
-image: hosting-with.png
+image: hosting-with.webp
 alt: Hand drawn zine cover with outline title Hosting With and people's names below
 license: Copyleft 
 ---

@@ -6,7 +6,7 @@ year: 2023
 tags: [ games, poetry, art games, DIY games, software studies, game art, game studies]
 archive_link: https://archive.org/details/game-poems/
 embed_link: https://archive.org/embed/game-poems/
-image: game-poems.png
+image: game-poems.webp
 alt: Cover image for Game Poems book with title text and blocky shapes
 license: CC BY-SA-ND 4.0
 ---
