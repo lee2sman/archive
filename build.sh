@@ -22,6 +22,7 @@ cat "$HEADER_FILE" > "$OUTPUT_DIR/index.html"
 
 # Process each markdown file
 for file in "$INPUT_DIR"/*.md; do
+  echo "Processing $file"
   base=$(basename "$file" .md)
   subdir="$OUTPUT_DIR/$base"
   html_file="$subdir/index.html"
