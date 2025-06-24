@@ -50,21 +50,28 @@ a:hover {
 }
 
 .grid-container > a > div {
-  text-align: center;
+  /* text-align: center; */
   padding: 10px;
   width: 23vw;
   justify-self: center;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .grid-container > a > div > h2 {
   /* height: 3vmax; */
   height: auto;
 }
+.grid-container > a > div > p {
+  text-align: justify;
+}
 .grid-container > a > div > img {
-  width: inherit;
+  /* width: inherit; */
+  width: 18vw;
   height: 20vmax;
   filter: grayscale(1);
+
 }
 .grid-container > a > div > img:hover {
   filter: grayscale(0);
@@ -85,8 +92,8 @@ a:hover {
     width: 43vw;
   }
 .grid-container > a > div > img {
-    width: inherit;
-    height: 30vmin;
+    width: 30vmin;
+    height: 34vmin;
   }
 }
 
