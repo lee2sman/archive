@@ -1,0 +1,17 @@
+---
+title: Culture Breakers, Alternatives and Other Numbers
+author: Ken Isaacs
+description: 'Describes "designs for living lightly on a small planet"'
+year: 1970
+tags: [DIY, architecture, living structures, building, utopianism, modular homes, microhouse]
+archive_link: https://archive.org/details/isaacs-culture-breakers
+embed_link: https://archive.org/details/isaacs-culture-breakers
+image: culture-breakers.webp
+alt: cover image of square book with title Culture Breakers, Alternatives and Other Numbers in squared up lines
+license: 
+editor_note:
+---
+
+> Ken Isaacs, an architect and former design educator, is a self-described survivalist “concerned with the survival of all people.” This book describes designs for living lightly on a small planet. In Culture Breakers, Isaacs presciently draws attention to shrinking polar ice caps and makes connections between the ways our living spaces affect how we survive in the world. Isaacs, concerned with ecology, considers how design can be more integrated into systems that function together. But, Isaacs’ main focus in Culture Breakers, is just that: breaking culture. He presents several plans for breaking down “old culture” so that people can be free to experience new ways of thinking. His designs for living and configurations of images are “culture breakers” meant to free individuals from traditional ways of learning, thinking, and experiencing the world. The book includes sketches of several of his “space framing” designs, like the “Microhouse” and the “Knowledge Box”. The basis for all of his designs is the “Matrix” network, which is a modular system of squares that can be built from off-the-shelf materials, like steel piping, wood, or bamboo. Matrix designs can be quickly framed up to make indoor and outdoor ‘living structures’ to provide both shelter and a different way of organizing small spaces. Isaacs ultimately hoped to change the way people learned and thought. This is most apparent in the later half of the book when he discusses his plans for the Knowledge Box, a cube with an external projection system that submersed par- ticipants in a room full of images. An earlier version of the submersion system was the “Pholage” – a neologism combining photography, montage, and collage. Isaacs collaged photographs, unedited, into a small space with the intention of changing the way a viewer makes connections in her mind about society and the human condition amidst a jumble of information. In his quest to break culture, Isaacs moves from the static Pholage to the moving image. Focusing on how space shapes our thinking, he includes designs for mo- bile structures that can shift consciousness, like the Torus 1, a long modular tube that when installed will allow for slide and film projections on four walls, finally settling on the streamlined cube of the Knowledge Box design with projections surrounding participants. The Knowledge Box design, that concludes the book, is an extension of the “Space University,” an immersive educational system where students could be surrounded with ideas. Culture Breakers focuses on the way spaces shape our consciousness and can encourage or hinder the way we learn and relate. Isaacs takes on daily living spaces and ultra-specialized learning environments in his vision to make a new world. This book is a gem: come for the beautiful design sketches and stay for the utopian idea
+
+*--text by The Library of Radiant Optimism for Let’s Remake the World (Brett Bloom and Bonnie Fortune)*

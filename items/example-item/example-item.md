@@ -9,5 +9,6 @@ embed_link:
 image: 
 alt: 
 license: 
+editor_note:
 ---
 

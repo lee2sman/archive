@@ -1,0 +1,15 @@
+---
+title: 'Some Notes on "New Expressions"'
+author: Jacob Ciocci
+description: '"New Expressions," Jacob Ciocci’s eight-page online commission for NewHive, describes a how-to guide for creating animated paintings.'
+year: 2014
+tags: [collage, internet, web, art, defunct, server, NewHive, DIY, KidPix, manifesto]
+archive_link: https://archive.org/details/ciocci-notes-new-expressions
+embed_link: https://archive.org/embed/ciocci-notes-new-expressions
+image: new-expressions.webp
+alt: first page of article with journal title HYPERALLERGIC at top and article title Some Notes on New Expressions and a digital collage with square sad face and other mixed digital collage
+license: 
+editor_note: 
+---
+
+> *"New Expressions," Jacob Ciocci’s eight-page online commission for NewHive, describes a how-to guide for creating animated paintings. This collection explores the ways in which creativity has been commodified for the masses, as a result of DIY culture, arts and crafts stores, and lifestyle specialists like Martha Stewart. While he embraces a paint-by-numbers-style approach to art-making, Ciocci remains aware of how these recipes, or the digital interfaces that integrate them, influence the creative process. “New Expressions” is viewable on NewHive here, and below is an extended artist statement.* --curator Lindsay Howard
