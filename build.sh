@@ -20,27 +20,50 @@ cp -r "$ASSETS_SRC_DIR" "$ASSETS_DEST_DIR"
 # Start landing page by inserting header file
 cat "$HEADER_FILE" > "$OUTPUT_DIR/index.html"
 
+# Init tracking arrays
+skipped_files=()
+skipped_errors=()
+processed_files=()
+
 # Process each markdown file
 for file in "$INPUT_DIR"/*.md; do
-  echo "Processing $file"
   base=$(basename "$file" .md)
   subdir="$OUTPUT_DIR/$base"
   html_file="$subdir/index.html"
 
-  # Make subdirectory for this item
   mkdir -p "$subdir"
 
-  # Generate individual HTML using provided template
-  pandoc "$file" --template="$TEMPLATE" -o "$html_file"
+  # Run pandoc to generate HTML, capture stderr
+  html_err=$(pandoc "$file" --template="$TEMPLATE" -o "$html_file" 2>&1 >/dev/null)
+  if echo "$html_err" | grep -Eiq "yaml.*(error|exception|parse)"; then
+    skipped_files+=("$file")
+    skipped_errors+=("$html_err")
+    continue
+  fi
 
-  # Extract metadata
-  metadata_json=$(pandoc $file --lua-filter=$TEMPLATE_DIR/extract-meta.lua)
+  # Run pandoc to extract metadata, capture stderr
+  meta_output=$(pandoc "$file" --lua-filter="$TEMPLATE_DIR/extract-meta.lua" 2>&1)
+  if echo "$meta_output" | grep -Eiq "yaml.*(error|exception|parse)"; then
+    skipped_files+=("$file")
+    skipped_errors+=("$meta_output")
+    continue
+  fi
 
-  # Parse fields with jq
-  title=$(echo "$metadata_json" | jq -r '.title')
-  description=$(echo "$metadata_json" | jq -r '.description')
-  alt=$(echo "$metadata_json" | jq -r '.alt')
-  image=$(echo "$metadata_json" | jq -r '.image')
+  # Assume stdout was JSON metadata
+  metadata_json="$meta_output"
+
+  # Lenient field parsing with fallbacks
+  title=$(echo "$metadata_json" | jq -r '.title' 2>/dev/null)
+  [ -z "$title" ] || [ "$title" = "null" ] && title="Untitled"
+
+  description=$(echo "$metadata_json" | jq -r '.description' 2>/dev/null)
+  [ -z "$description" ] || [ "$description" = "null" ] && description=""
+
+  alt=$(echo "$metadata_json" | jq -r '.alt' 2>/dev/null)
+  [ -z "$alt" ] || [ "$alt" = "null" ] && alt=""
+
+  image=$(echo "$metadata_json" | jq -r '.image' 2>/dev/null)
+  [ -z "$image" ] || [ "$image" = "null" ] && image="default.png"
 
   # Append entry to landing page
   cat <<EOF >> "$OUTPUT_DIR/index.html"
@@ -53,9 +76,28 @@ for file in "$INPUT_DIR"/*.md; do
   </a>
 EOF
 
+  processed_files+=("$file")
 done
 
 # Finish landing page by inserting footer file
 cat "$FOOTER_FILE" >> "$OUTPUT_DIR/index.html"
 
-echo "Site generated in $OUTPUT_DIR/"
+# Summary report
+echo ""
+if [ "${#skipped_files[@]}" -gt 0 ]; then
+  echo "❌ Skipped ${#skipped_files[@]} file(s) due to YAML parsing errors:"
+  for i in "${!skipped_files[@]}"; do
+    echo "  - ${skipped_files[$i]}"
+    echo "    Error:"
+    echo "${skipped_errors[$i]}" | sed 's/^/      /'
+    echo ""
+  done
+fi
+
+if [ "${#processed_files[@]}" -gt 0 ]; then
+  echo "✅ Successfully processed ${#processed_files[@]} file(s)."
+else
+  echo "⚠️ No files were successfully processed."
+fi
+
+echo ""
