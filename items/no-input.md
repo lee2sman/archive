@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/no-input-mixer-workshop
 image: no-input.webp
 alt: First page of pamphlet with intro info on No-Input Mixer Board mixing and an image of a mixer at top
 license: 
+editor_note: I found this on a deep internet dive one night while looking for resources on no-input mixer board techniques after finding not much else. This was highly useful info!
 ---
 
 THE NOISE UPSTAIRS presents a FREE No-Input Mixer Workshop

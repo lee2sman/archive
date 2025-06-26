@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/2021-feed-doom-workshop-setup
 image: bbcast-doom.webp
 alt: a collage of a booklet titled Doom Modding workshop held open into the void with Babycastles logo in background
 license: GNU Free Documentation License 1.2
+editor_note: I helped organize the Babycastles Academy workshops and this one was a particular favorite, by two artists that go above and beyond, using game engines and various open source tools to make artwork truly their own.
 ---
 
 [YouTube recording](https://youtu.be/L-eYHRlDeUM?si=XwtipKY-0j6WC3wY)

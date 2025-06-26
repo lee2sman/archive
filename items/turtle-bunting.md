@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/peter-carter-turtle-bunting/
 image: turtle-bunting.webp
 alt: Cover of booklet showing flags of the world, black and white reproduction
 license: 
+editor_note: I am a fan of LOGO, its ethos, history and pedagogy. I teach LOGO in my course Drawing, Moving and Seeing with Code, and have had students read this resource. I like its writing style and approach.
 ---
 
 Preliminary Edition

@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/game-poems/
 image: game-poems.webp
 alt: Cover image for Game Poems book with title text and blocky shapes
 license: CC BY-SA-ND 4.0
+editor_note: 
 ---
 
 Copyright © 2023 by Jordan Magnuson  

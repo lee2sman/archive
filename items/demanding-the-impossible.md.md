@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/users-guide-to-demanding-the-impossible
 image: demanding-the-impossible.webp
 alt: Cover of zine with hand bubbled title A User's guide to Demanding the Impossible and line crossing out Demanding
 license: Anti-copyright, share and disseminate freely.
+editor_note: 
 ---
 
 "This publication was written in a whirlwind of three days in December 2010, between the first and second days of action by UK students against the government cuts, and intended to reflect on the possibility of new creative forms of action in the current movements. It was distributed initially at the Long Weekend, an event in London to bring artists and activists together to plan and plot actions for the following days, including the teach-in disruption of the Turner Prize at Tate Britain, the collective manifesto write-in at the National Gallery and the UK’s version of the book bloc."

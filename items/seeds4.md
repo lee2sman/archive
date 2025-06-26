@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/seeds_issue4/seeds_issue4
 image: seeds4.webp
 alt: magazine cover with title Seeds and issue 4 and circular arrangement of variously colored circles centered and arrayed out
 license: 
+editor_note: I have work in this one! They even credited me twice in the listing!
 ---
 
 Editors:  

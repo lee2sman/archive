@@ -9,13 +9,16 @@ embed_link: https://archive.org/embed/inteligencia-artificial-chullachaqui/
 image: chullachaqui.webp
 alt: booklet spread showing a Commodore computer screen at an angle with text on left and BASIC code on right.
 license: 
+editor_note: I first came across Mariotti's work at the incredible ARTEÔNICA exhibition at the Museum of Latin American Art in Long Beach. Mariotti has been working in experimental media art for decades, well-documented on his personal website.
 ---
 
 FRANCESCO MARIOTTI  
 CHULLACHAQUI – INTELIGENCIA ARTIFICIAL  
-1981 -­‐ 1987  
+1981 -­1987  
 
 PDF of artworks and interview
+
+[Francesco Mariotti](https://www.mariotti.ch/en/) website
 
 Francesco Mariotti en conversación con José-Carlos Mariátegui  
 (imágenes al final del texto)

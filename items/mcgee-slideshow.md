@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/barry-mc-gee-speaking-carbon-festival-2013
 image: mcgee-slideshow.webp
 alt: a messy graffitied poster with dripping unreadable tags, and a construction barrier in front 
 license: 
+editor_note: I first met Barry and friends while working on a large exhibit of his work at the Rose Art Museum in 2004. Many years later we reconnected in California and I curated an exhibit of Barry and Clare's work at the Riverside Art Museum (The Big Sad). I have a small geometric painting by Barry tattooed on my arm.
 ---
 
 Barry has occasionally given slideshows like this at various arts centers over the years, including at REDCAT in LA.

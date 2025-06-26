@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/electroniccottage.org-the_joy_project_-_el
 image: joyproject.webp
 alt: album cover for Hal McGee's The Microcassette Diaries - a hand holding a microcassette recorder with thumb on red record button
 license: 
+editor_note: 
 ---
 
 "Hal shares with us, honestly with great humor and insight, his thoughts and influences on his extensive and prolific work in audio assemblages which one could argue are an art genre unto themselves"

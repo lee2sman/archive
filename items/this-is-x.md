@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/use-studio-this-is-x
 image: this-is-x.webp
 alt: book standing at three-quarters view with giant X printed on yellow background
 license: (copyleft) Sophie Haack & Ari Marteinsson, USE. Please use and reproduce anything in this book in any way you choose. No permission from the publisher is required.
+editor_note: I'm a huge fan of Institute for X and have been lucky to visit, party, eat, hang out, and join in the community over many years when Flux Factory visited Aarhus from 2018 - 2023.
 ---
 
 THIS IS (X) is a DIY urban handbook that serves to inspire architects, citizens, urban planners, politicians, cultural platforms and organisations to think ”bottom-up” instead of ”top-down”. The book is inspired by Institut for (X), a laboratory for bottom-up hands-on urban development in Aarhus.

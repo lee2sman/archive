@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/geesBend-guide_for_teachers/
 image: gees-bend-guide.webp
 alt: Cover of teaching guide for Gee's Bend, The Architecture of the Quilt and African-American Quiltmaking Traditions
 license: 
+editor_note: The quilts of Gee's Bend have been massively influential in my own life. Seeing them in person is not to be missed. I love this workshop guide for learning about the quilters, quilt geometry and patterning.
 ---
 
 GEE’S BEND: THE ARCHITECTURE OF THE QUILT AND AFRICAN AMERICAN QUILTMAKING TRADITIONS

@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/newartscienceaffinities/
 image: art-science.webp
 alt: Yellow cover and back jacket with title New Art/Science Affinities
 license: CC BY-NC-ND 3.0
+editor_note: I have in the past assigned this book to students in my intro course for a broad overview of the field and artists working in related disciplines. Though it is a little dated at this point, I think it is clear, well-written, and helps contextualize the work we'll be studying during the semester.
 ---
 
 New Art/Science Affinities

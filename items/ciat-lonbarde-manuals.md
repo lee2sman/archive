@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/Ieasku-Mobenthey-eurorack-manuals
 image: ieaskul.webp
 alt: Mocante instrument manual page mostly with wall of text and blue diagram of the instrument at center
 license: 
+editor_note:
 ---
 
 Ciat Lonbarde

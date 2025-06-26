@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/malevich-funeral/
 image: funeral-car.webp
 alt: Black and white scene of funeral procession from a century ago. People marching in front of large buildings and looking at camera, with old car with mounted black square on car's grill.
 license: 
+editor_note: It's the funeral procession with the car where the front grill has a mounted painting of a Black Square that does it for me.
 ---
 
 The Funeral of Kazimir Malevich

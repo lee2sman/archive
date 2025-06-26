@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/seeds_issue3/seeds_issue3
 image: seeds3.webp
 alt: Abstract magazine cover with title Seeds, Issue 3, and blue, orange, gray and white polygons tesseract  tiled, filled with disparate texturing 
 license: 
+editor_note: 
 ---
 
 Editors:  

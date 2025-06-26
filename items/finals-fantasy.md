@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/finals-fantasy
 image: finalsfantasylead.webp
 alt: A person wearing a VR headset, tongue extended, about to lick a stump in the forest.
 license: 
+editor_note: Originally a website, but since disappeared from the net. I really enjoy reading these, both as potential assignments as well as for their variety of creative ideas.
 ---
 
 Anne-Marie Schleiner

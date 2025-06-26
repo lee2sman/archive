@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/rolling-egg
 image: rolling-egg.webp
 alt: Cover of Rolling Egg with a photo and article about the Five Crates of Rats
 license: 
+editor_note: Jacob's writing is some of the funniest, experimental 'reporting' I've experienced. I highly recommend picking up any issue of Mother's News. His is a singular voice.
 ---
 
 volume 1, 4 issues August 2018

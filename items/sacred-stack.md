@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/sacred-stack-the-art-of-cyborg-community/
 image: sacred-stacks.webp
 alt: Dark gray and white cover with hand drawn elongated circuit board-like lettering with title Sacred Stacks The Art of Cyborg Community, and drawn computer chips underneath
 license: CC BY
+editor_note: 
 ---
 
 composed_and_compiled:

@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/game-maker-manual
 image: gamemaker.webp
 alt: Blue and white cover of manual for Create Your Own Games with Game Maker
 license: 
+editor_note: 
 ---
 
 This is the manual for Game Maker software for MS-DOS by Recreational Software Designs.

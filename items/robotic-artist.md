@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/cohen-robotic-artist/
 image: robotic-artist.webp
 alt: Harold Cohen looks on at a plotter machine (Aaron) plotting a drawing of a picture of a woman in orange and red, with a finished drawing mounted on the wall nearby
 license: 
+editor_note: "Harold Cohen's work is an important early reference to 'collaborating with the machine.' I enjoy a lot of the work by AARON and was lucky to be able to see an incredible show of old and posthumous work at the Whitney Museum it 2024, organized by Christiane Paul."
 ---
 
 Harold Cohen at The Computer Museum  

@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/alt-text-as-poetry_202410/
 image: alt-text-workbook.webp
 alt: Cover of booklet with blue title Alt-Text as Poetry Workbook
 license: CC BY-NC 4.0
+editor_note: 
 ---
 
 "This project is a collaboration between artists Bojana Coklyat and Shannon Finnegan, supported by Eyebeam and the Disability Visibility Project."

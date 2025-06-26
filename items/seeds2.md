@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/seeds_issue2/seeds_issue2
 image: seeds2.webp
 alt: Magazine cover with neon 3d shapes all over including 3d models of drinks, palm trees, hamburger, cupcakes and torus, star and ellipsoid shapes
 license: 
+editor_note: 
 ---
 
 Editors:  

@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/seeds_issue1/seeds_issue1
 image: seeds1.webp
 alt: Magazine cover with title Seeds, issue 1, and rhizomatic kaleidoscopic silver patterning in center 
 license: 
+editor_note: 
 ---
 
 also: Kate Compton's Bonus:  

@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/pasek-piantella-solar-powered/Pasek-Piante
 image: hosting-with.webp
 alt: Hand drawn zine cover with outline title Hosting With and people's names below
 license: Copyleft 
+editor_note: 
 ---
 
 A conversation around collective hosting practices in the context of art servers, community servers and feminist servers (Linz, June 2022)

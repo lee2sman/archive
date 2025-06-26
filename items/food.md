@@ -9,6 +9,7 @@ embed_link: https://archive.org/embed/white-columns-food/
 image: food.webp
 alt: Page spread showing text and a black and white image of the FOOD storefront
 license: 
+editor_note: I wish I had seen this exhibit. Failing that, reading this exhibition catalog is the next best thing.
 ---
 
 FOOD, an exhibition by White Columns, curated by Catherine Morris, published by Walter König, 52 pages, 8 1/4" X 11 11/16", offset, staple-bound.

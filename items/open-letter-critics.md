@@ -9,5 +9,6 @@ embed_link: https://archive.org/embed/an-open-letter-to-art-critics-2012
 image: open-letter-critics.webp
 alt: First page of letter beginning with title An Open Letter To Art Critics
 license: 
+editor_note: 
 ---
 
