@@ -2,6 +2,8 @@
 
 A digital archive of saved items like PDFs, articles, video files or anything else you want to save and present online. This was built as a personal collection of items saved from obscurity and backed up on the Internet Archive.
 
+This is both a digital archive library as well as a complete static site generator to build it.
+
 ## Requirements
 
 * pandoc 
@@ -35,10 +37,14 @@ Upload the contents of the docs directory to your web host.
 ├── docs/
 │   └── (output generated here)
 └── assets/
+    ├───font/
+    │   └── any custom-font
+    ├───img/
+    │   └── your image files
     └── css/
         └── main.css
 ```
 
 ### Gotchas
 
-You can't have a colon : in any of the metadata fields. The site builder will complain and give a confusing error message. So substitute commas or hyphens instead of colons.
+If any of your metadata fields in an item file contain special characters such as `:*/."` (etc) then you'll need to surround that field with single (or double) quotes.
