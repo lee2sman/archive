@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang='en' prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta property="og:title" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://leetusman.com/archive/docs/README/index.html" />
+    <meta property="og:image" content="https://leetusman.com/archive/assets/img/" />
+    <title></title>
+
+    <link rel="stylesheet" href="../assets/css/main.css">
+  </head>
+  <body>
+    <header>
+      <p><a href="../">← Dig Archive</a></p>
+    </header>
+    <main>
+      <article>
+        
+        
+        
+        
+        
+        
+        
+        
+        <h1 id="archive">Archive</h1>
+        <p>A digital archive of saved items like PDFs, articles, video
+        files or anything else you want to save and present online. This
+        was built as a personal collection of items saved from obscurity
+        and backed up on the Internet Archive.</p>
+        <p>This is both a digital archive library as well as a complete
+        static site generator to build it.</p>
+        <h2 id="requirements">Requirements</h2>
+        <ul>
+        <li>pandoc</li>
+        <li>jq</li>
+        </ul>
+        <p>pandoc is used for page conversion from markdown templates to
+        html files. jq is used to extract and parse data from the
+        markdown front matter of individual item pages, pulled out using
+        a pandoc lua filter.</p>
+        <h2 id="to-use">To use</h2>
+        <p>New items get added to the items sub-directory.</p>
+        <p>From the archive root directory run the build.sh script. You
+        can make it executable <code>chmod +x build.sh</code> and run it
+        <code>./build.sh</code> after making changes to the site.</p>
+        <p>The site is built and placed in the docs subdirectory, so
+        that one could host the site on GitHub pages for example very
+        easily by selecting the docs source directory on GitHub Page
+        settings. You can modify the build script for different
+        options.</p>
+        <p>After running the build script, to view the site locally, go
+        to the docs folder and run a local server, such as python’s
+        simple <code>python3 -m http.server</code>, or via VS Code’s
+        Live-server or any other preferred method.</p>
+        <p>Upload the contents of the docs directory to your web
+        host.</p>
+        <h2 id="directory-structure">Directory structure</h2>
+        <pre class="diagram"><code>.
+├── build.sh
+├── items/
+│   └── your markdown files
+├── templates/
+│   ├── item.html
+│   ├── header.html
+│   └── footer.html
+├── docs/
+│   └── (output generated here)
+└── assets/
+    ├───font/
+    │   └── any custom-font
+    ├───img/
+    │   └── your image files
+    └── css/
+        └── main.css</code></pre>
+        <h3 id="gotchas">Gotchas</h3>
+        <p>If any of your metadata fields in an item file contain
+        special characters such as <code>:*/."</code> (etc) then you’ll
+        need to surround that field with single (or double) quotes.</p>
+      </article>
+    </main>
+    <footer>
+      <p>Dig Archive is created by <a href="https://leetusman.com">Lee Tusman</a>.</p>
+    </footer>
+  </body>
+</html>
