@@ -25,7 +25,21 @@ skipped_files=()
 skipped_errors=()
 processed_files=()
 
-# Process each markdown file
+# Process any pages in root directory
+echo "⛏️ Building root pages"
+for file in *.md; do
+  base=$(basename "$file" .md)
+  subdir="$OUTPUT_DIR/$base"
+  html_file="$subdir/index.html"
+
+  mkdir -p "$subdir"
+
+  # Run pandoc
+  pandoc "$file" --template="$TEMPLATE" -o "$html_file" --quiet
+done
+
+# Process each item's markdown file
+echo "📜 Building archive item pages"
 for file in "$INPUT_DIR"/*.md; do
   base=$(basename "$file" .md)
   subdir="$OUTPUT_DIR/$base"
