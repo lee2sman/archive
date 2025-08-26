@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cabinet of Curios</title>
+  <title>Dig Archive</title>
   <meta charset="ISO-8859-1"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="assets/css/main.css">
 </head>
 <body>
   <header>
-    <h1>🗄️ Cabinet of Curios</h1>
-    <p>An archived collection of texts, zines, videos, and other assorted saved items from around the net, and beyond.</p>
+    <h1>🗄️ Dig Archive</h1>
+    <p>An archived collection of digitized media art, text, zines, videos, and other saved works from around the net, and beyond.</p>
+    <button onclick="randomizeOrder()">randomize</button>
+    <button onclick="sortAlphabetical()">alphabetical</button>
+    <button onclick="restoreOriginalOrder()">editor's order</button>
+    <button onclick="goToRandomLink()">random page</button>
   </header>
   <main>
 <div class="grid-container">
@@ -25,6 +29,13 @@
       <img src="assets/img/alt-text-workbook.webp" alt="Cover of booklet with blue title Alt-Text as Poetry Workbook" loading="lazy">
       <h2>Alt Text As Poetry</h2>
       <p>We’re excited for you to join us in exploring alt-text and hopefully in the process work toward making online communities more accessible, fun, and welcoming</p>
+    </div>
+  </a>
+  <a href="arming-desire">
+    <div>
+      <img src="assets/img/arming-desire.webp" alt="cover page of a paper titled The Arming of Desire - Counterculture and Computer Revolution by Lee Felsenstein" loading="lazy">
+      <h2>The Arming of Desire - Counterculture and Computer Revolution</h2>
+      <p>My thesis here will be that the creation of the personal computer, the Internet and open source design – the “computer revolution” to which I allude in the title - was not a linear, predictable process but one which involved many different people exercising various aspects of their beings – the artistic as well as the technical, and the visionary as well as the analytical.</p>
     </div>
   </a>
   <a href="art-science">
@@ -48,11 +59,32 @@
       <p>Ieaskul F. Mobenthey Eurorack modules manuals from website</p>
     </div>
   </a>
+  <a href="cobra">
+    <div>
+      <img src="assets/img/cobra.webp" alt="notations and instructions for John Zorn’s game piece performance work COBRA, depicting signs and their meanings" loading="lazy">
+      <h2>Notes and notations on John Zorn’s Cobra game piece</h2>
+      <p>Various collected articles and notation systems and notes on John Zorn’s game piece Cobra.</p>
+    </div>
+  </a>
   <a href="collective-action">
     <div>
       <img src="assets/img/collective-action.webp" alt="cover of publication with many words written in background in hand such as activism and “keep it public” and “intellectual” and the title Collective Action Archive on top" loading="lazy">
       <h2>Collective Action Archive</h2>
       <p>A small publication on art and activist collectives in their own words</p>
+    </div>
+  </a>
+  <a href="community-memory">
+    <div>
+      <img src="assets/img/community-memory.webp" alt="Cover of a brochure with the title Community Memory and description, images of networked computers and the bullet points to Read and Add Messages, Make a Connection, Share your Ideas" loading="lazy">
+      <h2>Community Memory flyers and brochures</h2>
+      <p>A large collection of materials relating to Community Memory, the first public computer bulletin board.</p>
+    </div>
+  </a>
+  <a href="convivial-cybernetic">
+    <div>
+      <img src="assets/img/convivial-cybernetic.webp" alt="Cover page for The Tom Swift Terminal: A Convivial Cybernetic Device" loading="lazy">
+      <h2>The Tom Swift Terminal: A Convivial Cybernetic Device</h2>
+      <p>A description of Illich’s concept of Convivial Design and its relation to the computer, as well as information to build a basic computer terminal.</p>
     </div>
   </a>
   <a href="cotton-mattress">
@@ -83,11 +115,32 @@
       <p>This publication was written in a whirlwind of three days in December 2010, between the first and second days of action by UK students against the government cuts, and intended to reflect on the possibility of new creative forms of action in the current movements.</p>
     </div>
   </a>
+  <a href="desktop-metaphor">
+    <div>
+      <img src="assets/img/desktop-metaphor.webp" alt="First page of article with a Susan Kare drawing style of a house smiling with the old Apple logo of the 1980s/90s" loading="lazy">
+      <h2>This is Not my Beautiful House: Examining the Desktop Metaphor, 1980 - 1995</h2>
+      <p>Article on the history of the desktop metaphor, originally published for online journal Continent</p>
+    </div>
+  </a>
   <a href="digital-preservation">
     <div>
       <img src="assets/img/digital-preservation.webp" alt="digital composition of digital map icons scattered on a gray background" loading="lazy">
       <h2>Digital Preservation Practices and the Rhizome Artbase</h2>
       <p>This paper aims to provide an analysis of the past and present digital preservation practices of the Rhizome ArtBase, and to extract from this a sustainable framework for the future that bears in consideration the fluidity of the field.</p>
+    </div>
+  </a>
+  <a href="distances-soundtrack">
+    <div>
+      <img src="assets/img/audio.webp" alt="An icon of a speaker, representing sound" loading="lazy">
+      <h2>Distances (soundtrack)</h2>
+      <p>Distances is the soundtrack to the short film ofthe same name.</p>
+    </div>
+  </a>
+  <a href="distances">
+    <div>
+      <img src="assets/img/distances.webp" alt="A composite black and white image of overlapping shadows of people at sea and ships in the background." loading="lazy">
+      <h2>Distances</h2>
+      <p>Distances is a remixed video using public domain film and audio loosely on the theme of early 20th century American immigration.</p>
     </div>
   </a>
   <a href="doom-modding">
@@ -109,6 +162,13 @@
       <img src="assets/img/finalsfantasylead.webp" alt="A person wearing a VR headset, tongue extended, about to lick a stump in the forest." loading="lazy">
       <h2>Finals Fantasy</h2>
       <p>Speculative projects for game arts students.</p>
+    </div>
+  </a>
+  <a href="fletcher-lived">
+    <div>
+      <img src="assets/img/fletcher-lived.webp" alt="first page of pdf on Fletcher’s Where I Lived, and What I Lived For video art project, with text and a screenshot of Harrell recording a boy sitting playing an accordion among the trees" loading="lazy">
+      <h2>Where I Lived, and What I Lived For</h2>
+      <p>Introduction, screenshots and captions for artist Harrell Fletcher’s video project, an homage to Thoreau’s Walden</p>
     </div>
   </a>
   <a href="food">
@@ -153,6 +213,20 @@
       <p>Glorious Trainwrecks X Babycastles is a salon-style event curated by and featuring many members from the Glorious Trainwrecks community. The show will coincide with the release of a Glorious Trainwrecks CD compiling the games in the event, as well as a Zine.</p>
     </div>
   </a>
+  <a href="golemic-approach">
+    <div>
+      <img src="assets/img/golemic-approach.webp" alt="A robotic garbage tank empties collects trash while a person with raised arms wearing a control unit demonstrates raising the trash to the robot." loading="lazy">
+      <h2>The Golemic Approach</h2>
+      <p>The concept of the golemic approach taken to the design of automatic devices is introduced and compared with the current robotic approach.</p>
+    </div>
+  </a>
+  <a href="harrell-fletcher-ideas">
+    <div>
+      <img src="assets/img/fletcher-ideas.webp" alt="a screenshot of a page titled Harrell Fletcher’s Art Ideas at the top and then the ideas below, after an intro" loading="lazy">
+      <h2>Harrell Fletcher’s Art Ideas</h2>
+      <p>A list of 99 project and exhibit ideas listed on artist Harrell Fletcher’s website, circa 2006.</p>
+    </div>
+  </a>
   <a href="hosting-with">
     <div>
       <img src="assets/img/hosting-with.webp" alt="Hand drawn zine cover with outline title Hosting With and people’s names below" loading="lazy">
@@ -195,6 +269,27 @@
       <p>Barry McGee’s slideshow at BAMPFA, part of Carbon Festival 2013.</p>
     </div>
   </a>
+  <a href="memory-systems">
+    <div>
+      <img src="assets/img/memory-systems.webp" alt="first page of article Open Collective Memory Systems including black and white drawing of a child pushing an overly large object labeled Treasure Island" loading="lazy">
+      <h2>Open Collective Memory Systems</h2>
+      <p>An introduction to cybernetic open/public information systems, from the perspective of their usefulness for community human service agencies and change-networks.</p>
+    </div>
+  </a>
+  <a href="metropolis-magazine">
+    <div>
+      <img src="assets/img/metropolis-mag.webp" alt="brown and offwhite cover of Metropolis Magazine, showing a vision of a futurist city with high rises and traffic and highways between buildings" loading="lazy">
+      <h2>“Metropolis” Magazine</h2>
+      <p>Writing on the making of the movie Metropolis, photocollages, and behind-the-scenes views.</p>
+    </div>
+  </a>
+  <a href="metropolis-poster">
+    <div>
+      <img src="assets/img/metropolis.webp" alt="a printed poster with expressionistic style for the movie Metropolis with title and visage of the Maschinenmensch" loading="lazy">
+      <h2>Fritz Lang’s Metropolis - Poster</h2>
+      <p>Poster from Fritz Lang’s movie Metropolis</p>
+    </div>
+  </a>
   <a href="new-expressions">
     <div>
       <img src="assets/img/new-expressions.webp" alt="first page of article with journal title HYPERALLERGIC at top and article title Some Notes on New Expressions and a digital collage with square sad face and other mixed digital collage" loading="lazy">
@@ -221,6 +316,41 @@
       <img src="assets/img/open-letter-critics.webp" alt="First page of letter beginning with title An Open Letter To Art Critics" loading="lazy">
       <h2>An Open Letter To Art Critics</h2>
       <p>An open letter to critics writing about political art (2012) On the occasion of Creative Time’s Summit 2012.</p>
+    </div>
+  </a>
+  <a href="paper-circuits">
+    <div>
+      <img src="assets/img/paper-circuits.webp" alt="a paper circuit board in natural-looking organic shapes, black and white" loading="lazy">
+      <h2>Paper Circuits</h2>
+      <p>In anticipation of Ieaskul F. Mobenthey releasing the Fourses modules for Eurorack, here are paper circuits to construct three different kinds of this module.</p>
+    </div>
+  </a>
+  <a href="phoning-amps">
+    <div>
+      <img src="assets/img/phoning-amps.webp" alt="Screenshot of the Phoning It In website with the title of the show and a drawing of a phone and other icons" loading="lazy">
+      <h2>Amps for Christ on Phoning It In, 06/06/2007</h2>
+      <p>An episode of Phoning It In, where musicians are interviewed and play music over the phone, with ‘power violence and home electronics pioneer’ Henry Barnes, aka Amps for Christ</p>
+    </div>
+  </a>
+  <a href="phoning-opn">
+    <div>
+      <img src="assets/img/phoning-opn.webp" alt="screenshot of website for Phoning It In, episode on Oneohtrix Point Never. A hand drawn doodle of a phone handset, curly cable, title of the show, a guitar, keyboard, and more." loading="lazy">
+      <h2>Oneohtrix Point Never on Phoning It In, 07/02/2009</h2>
+      <p>An episode of the show Phoning It In, where the host dials up musicians to perform live over the air through their phone. This episode features pre-vaporwave pioneer Oneohtrix Point Never.</p>
+    </div>
+  </a>
+  <a href="phoning-snow">
+    <div>
+      <img src="assets/img/phoning-snow.webp" alt="screenshot of the website for Phoning It In, circa 2007, with an episode on Natural Snow Buildings. The usual drawing of a telephone handset with cable and some doodles is there." loading="lazy">
+      <h2>Natural Snow Buildings on Phoning It In, 02/19/2007</h2>
+      <p>An episode of Phoning It In, where musicians talk and perform music over the phone, with French experimental music cult favorite Natural Snow Buildings</p>
+    </div>
+  </a>
+  <a href="pocket-memory">
+    <div>
+      <img src="assets/img/pocket-memory.webp" alt="Cover of a brochure showing a man with view of his brain, thinking of some information that spirals out in text, and explosions with words Forums, Respond, Share, Change" loading="lazy">
+      <h2>A Pocket Guide to Community Memory</h2>
+      <p>A Pocket Guide to Community Memory (apparently a paper overlay for the computer terminal)</p>
     </div>
   </a>
   <a href="robotic-artist">
@@ -286,11 +416,25 @@
       <p>This is a zine about building your own solar-powered digital media storage infrastructure and sharing it on-line with the rest of the world.</p>
     </div>
   </a>
+  <a href="spells">
+    <div>
+      <img src="assets/img/spells.webp" alt="a page from Songs showing possible lyrics, and a visual score including the phrase NOISE HELL" loading="lazy">
+      <h2>Spells</h2>
+      <p>Handmade “Coloring books” from the Synth Mall website, by Peter Blasser of Ciat-Lonbarde, along with scores</p>
+    </div>
+  </a>
   <a href="this-is-x">
     <div>
       <img src="assets/img/this-is-x.webp" alt="book standing at three-quarters view with giant X printed on yellow background" loading="lazy">
       <h2>This is (X)</h2>
       <p>THIS IS (X) is a DIY urban handbook that serves to inspire architects, citizens, urban planners, politicians, cultural platforms and organisations to think “bottom-up” instead of “top-down”. The book is inspired by Institut for (X), a laboratory for bottom-up hands-on urban development in Aarhus.</p>
+    </div>
+  </a>
+  <a href="tom-swift">
+    <div>
+      <img src="assets/img/tom-swift.webp" alt="Magazine spread of article Tom Swift Lives! with drawings making up the circuit for a physical dummy terminal with keyboard and monitor hooked up to a modem." loading="lazy">
+      <h2>Tom Swift Lives! and Convivial Design</h2>
+      <p>A printed page spread with description and drawings of the Tom Swift Terminal and an insert on Convivial Design.</p>
     </div>
   </a>
   <a href="transformation1">
@@ -307,10 +451,18 @@
       <p>A booklet on programming in LOGO with example programs for creating various flags.</p>
     </div>
   </a>
+  <a href="viral-art">
+    <div>
+      <img src="assets/img/viral-art.webp" alt="cover of book with image of graffiti-covered train car on an elevated train line above a road filled with traffic" loading="lazy">
+      <h2>Viral Art</h2>
+      <p>How the internet has shaped street art and graffiti</p>
+    </div>
+  </a>
 </div> <!-- closes grid-container -->
 </main>
 <footer>
-  <p>Cabinet of Curios is created by <a href="https://leetusman.com">Lee Tusman</a>.</p>
+  <p>Dig Archive is created by <a href="https://leetusman.com">Lee Tusman</a>.</p>
 </footer>
+<script src="assets/js/script.js" defer></script>
 </body>
 </html>

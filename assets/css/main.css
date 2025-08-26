@@ -1,3 +1,8 @@
+:root {
+  --bg: aliceblue;
+  --fg: mediumblue;
+}
+
 @font-face {
   font-family: bagnard-sans;
   src: url(../font/BagnardSans.otf);
@@ -6,8 +11,12 @@
   box-sizing: border-box;
 }
 body {
-  background-color: darkseagreen;
+  background-color: var(--bg);
+  color: var(--fg);
   font-family: bagnard-sans;
+  width: 50em;
+  vertical-align: middle; 
+  margin: 0 auto;
 }
 article {
   max-width: 50em;
@@ -24,40 +33,52 @@ iframe {
   min-height: 50vmin;
 }
 header {
-  margin: 0 2rem;
+  margin: 0 10px; 
 }
 p {
   font-size: 12pt;
+  opacity: 1;
 }
 h1 {
   font-size: 48pt; 
 }
 a {
-  color: darkblue;
   text-decoration: none;
   border-radius: 0.3rem;
+  color: var(--fg);
 }
 a:hover {
-  color: black;
-  background-color: gainsboro;
   cursor: grab;
+}
+button {
+  background-color: var(--fg);
+  color: var(--bg);
+  border-radius: 10px;
+}
+footer {
+  margin: 10px;
 }
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: auto auto;
   gap: 10px;
   padding: 10px;
 }
+.grid-container > a {
 
+  border: 1px solid var(--fg);
+}
 .grid-container > a > div {
   /* text-align: center; */
-  padding: 10px;
+  padding: 15px;
+  margin: 15px;
   width: 23vw;
  /* justify-self: center; */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  opacity: 0.65;
 }
 .grid-container > a > div > h2 {
   /* height: 3vmax; */
@@ -70,11 +91,11 @@ a:hover {
   /* width: inherit; */
   width: 18vw;
   height: 20vmax;
-  filter: grayscale(1);
-
+  /* filter: grayscale(1); */
+  filter: grayscale(100%) sepia(100%) hue-rotate(200deg);
 }
 .grid-container > a > div > img:hover {
-  filter: grayscale(0);
+  filter: grayscale(0%) sepia(0%) hue-rotate(0deg);
 }
 
 /* responsive */
