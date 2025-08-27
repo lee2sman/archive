@@ -79,6 +79,9 @@ for file in "$INPUT_DIR"/*.md; do
   image=$(echo "$metadata_json" | jq -r '.image' 2>/dev/null)
   [ -z "$image" ] || [ "$image" = "null" ] && image="default.png"
 
+  editor_note=$(echo "$metadata_json" | jq -r '.editor_note' 2>/dev/null)
+  [ -z "$editor_note" ] || [ "$editor_note" = "null" ] && editor_note=""
+
   # Append entry to landing page
   cat <<EOF >> "$OUTPUT_DIR/index.html"
   <a href="$base">
