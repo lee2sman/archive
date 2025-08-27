@@ -1,12 +1,12 @@
 # What is this?
 
-Dig Archive is a collection of items I've been hoarding on my computer for years. I've been a longtime fan of [UbuWeb](https://ubuweb.com). And I've been browsing, reading and recommending the [Internet Archive](https://archive.org) for decades. In the days of Napster I would visit the music archives of folks sharing their collections. My love for digital archives doesn't end there. I've researched and built digital archives for a number of artist-run spaces, liberating their images from closed platforms and building new handmade, personal spaces to share and sift through their creative works.  
+➘Dig Archive is a personal collection of items I've been hoarding on my computer for years. I've been a longtime fan of [UbuWeb](https://ubuweb.com). And I've been browsing, reading and recommending the [Internet Archive](https://archive.org) for decades. In the days of Napster I would visit the music archives of folks sharing their collections. My love for digital archives doesn't end there. I've researched and built digital archives for a number of artist-run spaces, liberating their images from closed platforms and building new handmade, personal spaces to share and sift through their creative works.  
 
-This archive is mine, personal to my interests. These are items I've collected over the years that I revisit and that I want to make available to others. Some of them can be found elsewhere online but others can only be found here, or disappeared from the web years ago.
+The items presented here are works collected over the years that I revisit and want to make available to others. Some of these can be found elsewhere online but many others can only be found here, or are in danger of disappearing due to link rot, obfuscation, old digital containers and codecs, or other forms of digital brittleness.
 
-## What will you find here?
+## What items can be found in the ➘Dig Archive?
 
-I'm an artist and musician, and use various forms of technology including *creative coding*, Digital Audio Workstations, modular synths (or modular visual programming languages). I'm particularly a fan of surfacing old software, tools and writing that may have been missed in the rush to the *latest tech*. 
+I'm an artist and musician, and use various forms of technology including *creative coding*, Digital Audio Workstations, modular synths (or modular visual programming languages). I'm particularly a fan of surfacing old software, tools and writing that may have been missed in the rush to the *latest technology*. 
 
 There are the informal rules of composer/musician John Zorn's improvised "game pieces" that are handed down from musician to musician. There are coloring books and manuals, as well as half-manuals/half-coloring-books from virtuousic psychedelic synth designer Peter Blasser. 
 
@@ -18,8 +18,12 @@ This and many more items can be found in my small archive, which will slowly gro
 
 ## Contact
 
-For any questions or complaints relating to this website, or to request materials be removed, you can contact the [webmaster](https://leetusman.com/info).
+For any questions or complaints relating to this website, to correct mistakes, or to request materials be removed, you can contact the [webmaster](https://leetusman.com/info).
 
 ## Privacy
 
 No data is retained on visitors browsing this website.
+
+## Site design
+
+This site was built and designed by [Lee Tusman](https://leetusman.com), using a modified form of his website builder [Panblog](https://github.com/lee2sman/panblog) and set in [Bagnard Sans](https://github.com/dconstruct/Bagnard/), inspired by the graffiti of an anonymous prisoner of the napoleonic wars. Site code (c) 2025 Lee Tusman. Site design CC BY. No Gods, No Masters. 
