@@ -4,8 +4,8 @@ author: Guru Rugu
 description: A beautiful guided meditation for Occupy, possibly the best only guided meditation that directly relates to the goals and strategies of Occupy.
 year: 2011
 tags: [Guru Rugu, KCHUNG, KCHUNG radio, guided meditation, Occupy, OccupyLA]
-archive_link: https://archive.org/details/guru-rugu-veranda-moot-on-kchung-answers-are-not-the-answe
-embed_link: https://archive.org/embed/guru-rugu-veranda-moot-on-kchung-answers-are-not-the-answe
+archive_link: https://archive.org/details/guru-rugu-veranda-moot-on-kchung-answers-are-not-the-answer
+embed_link: https://archive.org/embed/guru-rugu-veranda-moot-on-kchung-answers-are-not-the-answer
 image: audio.webp
 alt: an audio icon
 license: CC BY 4.0
