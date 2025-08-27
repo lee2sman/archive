@@ -1,0 +1,15 @@
+---
+title: Notes and notations on John Zorn's Cobra game piece
+author: Various
+description: Various collected articles and notation systems and notes on John Zorn's game piece Cobra.
+year: 
+tags: [John Zorn, improvisation, game piece, experimental music, noise, Tzadik]
+archive_link: https://archive.org/details/john-zorn-cobra/
+embed_link: https://archive.org/embed/john-zorn-cobra/
+image: cobra.webp
+alt: notations and instructions for John Zorn's game piece performance work COBRA, depicting signs and their meanings
+license: 
+editor_note: I have played experimental music solo and in groups for 30 years, and been a fan of Zorn and seen this work performed live. But I have never performed it myself! One day I hope to, or create a new work in a similar mode.
+---
+
+> Cobra is an unpublishedbut recorded and frequently performed musical composition by John Zorn. Cobra was conceived as a system with very detailed rules but with no pre-conceived sequence of events (a "game piece") for a group of musical improvisers and a prompter.Zorn completed Cobra on October 9, 1984. The composition consists of a set of cues notated on cards, and rules corresponding to the cues that direct the players what to do in response to the cards. The number of players, instrumentation, and length of the piece is indeterminate, but a "prompter" is essential to the piece, holding the cards at his or her discretion and issuing other cues. Because there is no traditional musical notation and the players improvise, the piece may sound radically different from performance to performance. The title was inspired by a table-top war game published by TSR (publishers of Dungeons and Dragons). --adapted from [Wikipedia](https://en.wikipedia.org/wiki/Cobra_(Zorn))

@@ -1,7 +1,7 @@
 ---
 title: Rolling Egg
 author: Jacob Berendes
-description: A free publication created at and for the Providence Fringe Fest. 
+description: Four issues of a free rapid publication created at and for the Providence Fringe Fest by legendary "Mothers News" publisher Jacob Berendes.
 year: 2018
 tags: [ mothers news, zines, providence, rhode island, jacob berendes, DIY ]
 archive_link: https://archive.org/details/rolling-egg

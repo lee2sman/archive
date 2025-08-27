@@ -1,7 +1,7 @@
 ---
 title: No Input Mixer Workshop
 author: 'The Noise Upstairs (Richard Knight)'
-description: '"No-input" describes the state of an audio mixer fed back into itself. The name is slightly misleading however. There is input to the mixer: the output.'
+description: A practical how-to guide for creating noise music using mixers with their output patched to their input, creating audio feedback loops.
 year: 2010
 tags: [noise, no-input mixer, workshop, DIY]
 archive_link: https://archive.org/details/no-input-mixer-workshop 

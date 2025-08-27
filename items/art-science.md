@@ -1,7 +1,7 @@
 ---
 title: New Art/Science Affinities
 author: Studio for Creative Inquiry
-description: We are proud to present this timely reflection on the current and historic intersections of art, science, and technology.
+description: A mega compilation of interviews and studio visits with artists working at the intersection of art, science, and technology.
 year: 2011
 tags: [art and technology, new media, programming, digital design, art and science, creative coding, creative science, laborator, DIY, speculative design, hacker art, subvert,  ]
 archive_link: https://archive.org/details/newartscienceaffinities/ 

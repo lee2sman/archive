@@ -1,7 +1,7 @@
 ---
 title: Laboratory Manual For Embedded Controllers  
 author: James M. Fiore 
-description: A laboratory manual textbook on learning to program embedded controllers with Arduino and C
+description: A lab manual textbook for learning to program embedded controllers with Arduino and C.
 year: 2020
 tags: [ arduino, c, embedded, LED, programming, maker, controllers]
 archive_link: https://archive.org/details/laboratory-manual-for-embedded-controllers/

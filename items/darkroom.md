@@ -1,7 +1,7 @@
 ---
 title: Introduction to Printing in the Darkroom
 author: ESTEC Photographic Club
-description: Intro to Printing in the Darkroom
+description: Intro to Printing in the Darkroom.
 year: 2011
 tags: [photography, film, development, photo, processing, black and white]
 archive_link: https://archive.org/details/estec-intro-to-darkroom-printing

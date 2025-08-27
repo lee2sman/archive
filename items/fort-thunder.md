@@ -1,7 +1,7 @@
 ---
 title: Fort Thunder, A Grainy Imagery In An Aura Of Folly
 author: Francesco Spampinato
-description: Article on the eponymous Rhode Island warehouse DIY space Fort Thunder
+description: Article on the eponymous Rhode Island warehouse DIY space Fort Thunder.
 year: 2010
 tags: []
 archive_link: https://archive.org/details/pampinato_fort_thunder

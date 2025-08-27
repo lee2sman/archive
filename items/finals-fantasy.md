@@ -1,7 +1,7 @@
 ---
 title: Finals Fantasy
 author: Rick Silva
-description: Speculative projects for game arts students.
+description: Speculative projects for game arts students by a host of indie, DIY and experimental game designers and collectives.
 year: 2016
 tags: [programming, art, games, education]
 archive_link: https://archive.org/details/finals-fantasy

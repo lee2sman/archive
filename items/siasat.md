@@ -1,7 +1,7 @@
 ---
 title: siasat - a short tactical guide for artist-run initiatives
 author: ruang rupa
-description: a short tactical guide for artist-run initiatives 
+description: A short tactical guide for artist-run initiatives from the Javanese curatorial art collective.
 year: 2011
 tags: [ruangrupa, ruang rupa, curators, collective, DIY, Java, Yogyakarta, Indonesia, artist-run space]
 archive_link: https://archive.org/details/ruangrupa_siasat_tactical_guide 

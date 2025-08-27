@@ -1,7 +1,7 @@
 ---
 title: The Joy Project - Electronic Cottage
 author: Leslie Singer
-description: "For the past year I have embarked on a project of joy, a series of interviews with artist extraordinaire and Electronic Cottage founder, Hal McGee." 
+description: A series of interviews with artist extraordinaire and audio assemblage mastro/Electronic Cottage founder, Hal McGee.
 year: 2020
 tags: []
 archive_link: https://archive.org/details/electroniccottage.org-the_joy_project_-_electronic_cottage

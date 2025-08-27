@@ -1,7 +1,7 @@
 ---
 title: Create Your Own Games With Game Maker - User Manual
 author: Microforum Inc.
-description: The manual for Game Maker software for MS-DOS by Recreational Software Designs.
+description: The manual for Game Maker software for MS-DOS by Recreational Software Designs, containing features that democratized the creation of video games.
 year: 1994
 tags: [game maker, manual, video games, open source, bbs, shareware]
 archive_link: https://archive.org/details/game-maker-manual

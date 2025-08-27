@@ -1,7 +1,7 @@
 ---
 title: A User's Guide to Demanding the Impossible
 author: Gavin Grindon and John Jordan
-description: 'This publication was written in a whirlwind of three days in December 2010, between the first and second days of action by UK students against the government cuts, and intended to reflect on the possibility of new creative forms of action in the current movements.'
+description: A zine from December 2010 by UK students protesting against government cuts, intended to reflect on the possibility of new creative forms of action. 
 year: 2010
 tags: [pamphlet, zine, anti-copyright, book bloc, activism, art action]
 archive_link: https://archive.org/details/users-guide-to-demanding-the-impossible 

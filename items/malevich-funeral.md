@@ -1,7 +1,7 @@
 ---
 title: Kazimir Malevich's Suprematist Funeral
 author: 
-description: Photographs from the funeral of suprematist painter Kazimir Malevich
+description: Photographs from the funeral of "suprematist" painter Kazimir Malevich.
 year: 1935
 tags: [malevich, suprematism, modern art, painting, funeral, canon]
 archive_link: https://archive.org/details/malevich-funeral/

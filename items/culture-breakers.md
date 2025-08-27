@@ -1,7 +1,7 @@
 ---
 title: Culture Breakers, Alternatives and Other Numbers
 author: Ken Isaacs
-description: 'Describes "designs for living lightly on a small planet"'
+description: 'Describes "designs for living lightly on a small planet".'
 year: 1970
 tags: [DIY, architecture, living structures, building, utopianism, modular homes, microhouse]
 archive_link: https://archive.org/details/isaacs-culture-breakers

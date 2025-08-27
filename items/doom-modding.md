@@ -1,7 +1,7 @@
 ---
 title: Doom Modding Workshop
 author: Eben Kling and Aude Jomini
-description: A workshop in DOOM Modding for Babycastles Academy 
+description: A workshop in DOOM Modding for Babycastles Academy.
 year: 2021
 tags: [babycastles, DOOM, Doom mod, WAD, shareware, ZDoom, workshop, zine]
 archive_link: https://archive.org/details/2021-feed-doom-workshop-setup

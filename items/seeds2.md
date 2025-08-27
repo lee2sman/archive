@@ -1,7 +1,7 @@
 ---
 title: Seeds Magazine Issue 2
 author: PROCJAM
-description: Aimed at making procedural generation accessible to more people and to show off projects that are pushing the boundaries of generative software.
+description: Issue 2 of a magazine on generative art and software.
 year: 2017
 tags: [procedural generation, generativity, AI, creative coding, randomness, programming]
 archive_link: https://archive.org/details/seeds_issue2/seeds_issue2

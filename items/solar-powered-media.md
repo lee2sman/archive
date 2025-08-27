@@ -1,7 +1,7 @@
 ---
 title: Solar Powered Media
 author: Anne Pasek and Benedetta Piantella
-description: This is a zine about building your own solar-powered digital media storage infrastructure and sharing it on-line with the rest of the world.
+description: A zine about building solar-powered digital media storage infrastructure and sharing it on-line with the rest of the world.
 year: 2021
 tags: []
 archive_link: https://archive.org/details/pasek-piantella-solar-powered/Pasek-Piantella-Solar_Powered/

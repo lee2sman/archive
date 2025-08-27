@@ -1,7 +1,7 @@
 ---
 title: Alt Text As Poetry
 author: Bojana Coklyat and Shannon Finnegan 
-description: We're excited for you to join us in exploring alt-text and hopefully in the process work toward making online communities more accessible, fun, and welcoming
+description: An exploration of alt-text toward making online communities more accessible, fun, and welcoming
 year: 2020
 tags: [alt text, poetry, disability, visibility, artists, eyebeam]
 archive_link: https://archive.org/details/alt-text-as-poetry_202410/

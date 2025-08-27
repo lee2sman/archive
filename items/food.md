@@ -1,7 +1,7 @@
 ---
 title: FOOD 
 author: Catherine Morris
-description: An out of print and hard to find exhibition catalog devoted to FOOD, a collaborative artist-run restaurant in New York City
+description: An out of print and hard to find exhibition catalog devoted to FOOD, a collaborative artist-run restaurant in New York City.
 year: 1999
 tags: []
 archive_link: https://archive.org/details/white-columns-food/

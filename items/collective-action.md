@@ -1,7 +1,7 @@
 ---
 title: Collective Action Archive
 author: Brooke Singer
-description: A small publication on art and activist collectives in their own words
+description: A small publication on art and activist collectives in their own words.
 year: 2013
 tags: [art collective, art action, art activism, social practice]
 archive_link: https://archive.org/details/collective-action-archive

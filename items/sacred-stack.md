@@ -1,7 +1,7 @@
 ---
 title: "Sacred Stack: The Art of Cyborg Community"
 author: Nabil Echchaibi, Samira Rajabi, Nathan Schneider
-description: This handbook emerged out of a conversation over half a journey around the Sun. During that time we met all together over video, in small groups, and one-on-one, sharing our experiences at the intersection of community and technology. 
+description: A handbook put together growing out of conversations on the intersection of community and technology. 
 year: 2023
 tags: [cyborg, community, social media, programming, network, cooperative, wiki, covenant, tech sovereignty, AI]
 archive_link: https://archive.org/details/sacred-stack-the-art-of-cyborg-community/ 

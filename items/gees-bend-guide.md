@@ -1,7 +1,7 @@
 ---
 title: Gee’s Bend, The Architecture of the Quilt and African-American Quiltmaking Traditions - Resource Guide for Teachers
 author: Philadelphia Museum of Art
-description: The guide provides information about ten quilts created by African American women who worked throughout the twentieth century. 
+description: A guide with info about ten quilts created by women in the Gee's bend community.
 year: 2008
 tags: [quilts, gee's bend, quilters, Philadelphia Museum of Art, Social Studies, Museum, activity, resource guide]
 archive_link: https://archive.org/details/geesBend-guide_for_teachers/

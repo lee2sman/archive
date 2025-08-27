@@ -1,7 +1,7 @@
 ---
 title: 'Some Notes on "New Expressions"'
 author: Jacob Ciocci
-description: '"New Expressions," Jacob Ciocci’s eight-page online commission for NewHive, describes a how-to guide for creating animated paintings.'
+description: Jacob Ciocci’s online commission for NewHive is a how-to guide for creating "animated paintings".
 year: 2014
 tags: [collage, internet, web, art, defunct, server, NewHive, DIY, KidPix, manifesto]
 archive_link: https://archive.org/details/ciocci-notes-new-expressions

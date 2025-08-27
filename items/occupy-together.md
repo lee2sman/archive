@@ -1,7 +1,7 @@
 ---
 title: 'Occupy Together: Hand Signals'
 author: Occupy Design
-description:  The different hand signals used in the Occupy Wall Street General Assembly. Similar hand signals are used at different Occupy sites.
+description: The different hand signals used in the Occupy Wall Street General Assembly.
 year: 2011
 tags: [occupy, occupy together, anarchism, hand signals, protest]
 archive_link: https://archive.org/details/occupy-hand-signals

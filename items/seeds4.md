@@ -1,7 +1,7 @@
 ---
 title: Seeds Magazine Issue 4
 author: PROCJAM
-description: Aimed at making procedural generation accessible to more people and to show off projects that are pushing the boundaries of generative software.
+description: Issue 4 of a magazine on generative art and software.
 year: 2019
 tags: [procedural generation, generativity, AI, creative coding, randomness, programming]
 archive_link: https://archive.org/details/seeds_issue4/seeds_issue4

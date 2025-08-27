@@ -1,7 +1,7 @@
 ---
 title: Glorious Trainwrecks X Babycastles Zine
 author: Glorious Trainwrecks
-description: Glorious Trainwrecks X Babycastles is a salon-style event curated by and featuring many members from the Glorious Trainwrecks community. The show will coincide with the release of a Glorious Trainwrecks CD compiling the games in the event, as well as a Zine.
+description: Zine from the salon-style event curated by and featuring many members from the Glorious Trainwrecks community for an exhibition at Babycastles art space in NYC. 
 year: 2018
 tags: [babycastles, videogames, glorious trainwrecks, zine, arcade]
 archive_link: https://archive.org/details/glorious-trainwrecks-babycastles-zine/

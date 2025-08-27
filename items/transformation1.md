@@ -1,7 +1,7 @@
 ---
 title: "Trans/Formation: Arts, Communication, Environment - Volume 1"
 author: Harry Holtzman
-description: 'While embedded in the art world, trans/formation was devoted neither to art nor to architecture but to a proposition that the arts and the sciences could be brought together in a common enterprise.'
+description: '[Devoted] neither to art nor to architecture but to a proposition that the arts and the sciences could be brought together in a common enterprise.'
 year: 1950
 tags: [art, media, buckminster fuller, le corbusier]
 archive_link: https://archive.org/details/transformation-1

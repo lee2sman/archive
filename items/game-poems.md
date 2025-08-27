@@ -1,7 +1,7 @@
 ---
 title: Game Poems - Videogame Design as Lyric Practice
 author: Jordan Magnuson
-description: Poetry as a lens for videogames
+description: Poetry as a lens for creating and exploring video games.
 year: 2023
 tags: [ games, poetry, art games, DIY games, software studies, game art, game studies]
 archive_link: https://archive.org/details/game-poems/

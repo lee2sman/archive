@@ -1,7 +1,7 @@
 ---
 title: Barry McGee slideshow at BAMPFA 2013 - Carbon Festival
 author: Barry McGee
-description: Barry McGee's slideshow at BAMPFA, part of Carbon Festival 2013.
+description: Barry McGee's narrated graffiti slideshow at BAMPFA, part of Carbon Festival 2013.
 year: 2013
 tags: [Barry McGee, graffiti, DFW, BAMPFA]
 archive_link: https://archive.org/details/barry-mc-gee-speaking-carbon-festival-2013-g-pe-7-s-5e-twfc

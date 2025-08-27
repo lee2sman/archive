@@ -1,7 +1,7 @@
 ---
 title: 'The Robotic Artist: Aaron in Living Color,  Harold Cohen at The Computer Museum'
 author: The Computer Museum
-description: "'I write programs. Programs make drawings.' Harold Cohen's matter-of-fact description of his life's work belies the incredible challenge of what he set out to do 25 years ago. Nothing less than design a computer that knows how to create Cohen's art, totally unassisted."
+description: A publication in conjunction with artist/programmer Harold Cohen and his software AARON for his 1995 exhibition.
 year: 1995
 tags: [AI, generative art, procedural generation, painting, robotics, plotter, museum, exhibition, Harold Cohen]
 archive_link: https://archive.org/details/cohen-robotic-artist/

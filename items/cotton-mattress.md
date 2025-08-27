@@ -1,7 +1,7 @@
 ---
 title: Making A Cotton Mattress
 author: Federal Extension Service, U.S. Department of Agriculture
-description: An Aid to Extension and Village Workers in Many Countries
+description: Exactly what it states, a USDA pamphlet with technical information on building a mattress from scratch.
 year: 1965
 tags: [DIY, homesteading, mattress, sleeping]
 archive_link: https://archive.org/details/usaid-making-a-mattress

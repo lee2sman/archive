@@ -1,7 +1,7 @@
 ---
 title: This is (X)
 author: USE Studio
-description: 'THIS IS (X) is a DIY urban handbook that serves to inspire architects, citizens, urban planners, politicians, cultural platforms and organisations to think "bottom-up" instead of "top-down". The book is inspired by Institut for (X), a laboratory for bottom-up hands-on urban development in Aarhus.'
+description: A DIY urban handbook to inspire architects, citizens, urban planners, politicians, cultural platforms and organisations to think "bottom-up" instead of "top-down".
 year: 2020
 tags: [DIY, archive, Institute for X, social space, squat, Denmark, Aarhus, community]
 archive_link: https://archive.org/details/use-studio-this-is-x

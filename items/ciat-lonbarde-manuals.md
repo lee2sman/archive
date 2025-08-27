@@ -1,7 +1,7 @@
 ---
 title: Ciat Lonbarde Ieaskul F. Mobenthey Eurorack modules manuals
 author: Peter Blasser
-description: Ieaskul F. Mobenthey Eurorack modules manuals from website
+description: Ieaskul F. Mobenthey Eurorack module manuals. 
 year: 
 tags: [modular synth, synth, manual, eurorack, hardware]
 archive_link: https://archive.org/details/Ieasku-Mobenthey-eurorack-manuals
