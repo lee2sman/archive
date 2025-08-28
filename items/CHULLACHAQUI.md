@@ -20,6 +20,8 @@ PDF of artworks and interview
 
 [Francesco Mariotti](https://www.mariotti.ch/en/) website
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdU18Dg5FxM?si=v8YYEmlxUM84au6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Francesco Mariotti en conversación con José-Carlos Mariátegui  
 (imágenes al final del texto)
 
