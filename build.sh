@@ -48,7 +48,7 @@ for file in "$INPUT_DIR"/*.md; do
   mkdir -p "$subdir"
 
   # Run pandoc to generate HTML, capture stderr
-  html_err=$(pandoc "$file" --template="$TEMPLATE" -o "$html_file" 2>&1 >/dev/null)
+  html_err=$(pandoc "$file" --template="$TEMPLATE" -o "$html_file" --variable="item_path:$base" 2>&1 >/dev/null)
   if echo "$html_err" | grep -Eiq "yaml.*(error|exception|parse)"; then
     skipped_files+=("$file")
     skipped_errors+=("$html_err")
