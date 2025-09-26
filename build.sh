@@ -36,13 +36,21 @@ new_items_rss=()
 echo "⛏️ Building root pages"
 for file in *.md; do
   base=$(basename "$file" .md)
-  subdir="$OUTPUT_DIR/$base"
-  html_file="$subdir/index.html"
-
-  mkdir -p "$subdir"
-
-  # Run pandoc
-  pandoc "$file" --template="$TEMPLATE" -o "$html_file" --quiet
+  
+  # Handle 404 page specially - output directly to docs/404.html
+  if [ "$base" = "404" ]; then
+    html_file="$OUTPUT_DIR/404.html"
+    echo "🚧 Building 404 page"
+    pandoc "$file" --template="$TEMPLATE" -o "$html_file" --quiet
+  else
+    subdir="$OUTPUT_DIR/$base"
+    html_file="$subdir/index.html"
+    
+    mkdir -p "$subdir"
+    
+    # Run pandoc
+    pandoc "$file" --template="$TEMPLATE" -o "$html_file" --quiet
+  fi
 done
 
 # Process each item's markdown file
