@@ -10,8 +10,7 @@ ASSETS_DEST_DIR="$OUTPUT_DIR/assets"
 HEADER_FILE="$TEMPLATE_DIR/header.html"
 FOOTER_FILE="$TEMPLATE_DIR/footer.html"
 
-# Clean output directory before building
-rm -rf "$OUTPUT_DIR"
+# Ensure output directory exists
 mkdir -p "$OUTPUT_DIR"
 
 # Copy assets (css, img, font, etc.) into output directory
@@ -47,7 +46,54 @@ for file in "$INPUT_DIR"/*.md; do
 
   mkdir -p "$subdir"
 
+  # Check if subdirectory already exists and skip processing if it does
+  if [ -d "$subdir" ] && [ -f "$html_file" ]; then
+    echo "⚡ Skipping $base (already exists)"
+    
+    # Still need to extract metadata for the landing page
+    meta_output=$(pandoc "$file" --lua-filter="$TEMPLATE_DIR/extract-meta.lua" 2>&1)
+    if echo "$meta_output" | grep -Eiq "yaml.*(error|exception|parse)"; then
+      skipped_files+=("$file")
+      skipped_errors+=("$meta_output")
+      continue
+    fi
+
+    # Assume stdout was JSON metadata
+    metadata_json="$meta_output"
+
+    # Lenient field parsing with fallbacks
+    title=$(echo "$metadata_json" | jq -r '.title' 2>/dev/null)
+    [ -z "$title" ] || [ "$title" = "null" ] && title="Untitled"
+
+    description=$(echo "$metadata_json" | jq -r '.description' 2>/dev/null)
+    [ -z "$description" ] || [ "$description" = "null" ] && description=""
+
+    alt=$(echo "$metadata_json" | jq -r '.alt' 2>/dev/null)
+    [ -z "$alt" ] || [ "$alt" = "null" ] && alt=""
+
+    image=$(echo "$metadata_json" | jq -r '.image' 2>/dev/null)
+    [ -z "$image" ] || [ "$image" = "null" ] && image="default.png"
+
+    editor_note=$(echo "$metadata_json" | jq -r '.editor_note' 2>/dev/null)
+    [ -z "$editor_note" ] || [ "$editor_note" = "null" ] && editor_note=""
+
+    # Append entry to landing page
+    cat <<EOF >> "$OUTPUT_DIR/index.html"
+  <a href="$base">
+    <div>
+      <img src="assets/img/$image" alt="$alt" loading="lazy">
+      <h2>$title</h2>
+      <p>$description</p>
+    </div>
+  </a>
+EOF
+
+    processed_files+=("$file")
+    continue
+  fi
+
   # Run pandoc to generate HTML, capture stderr
+  echo "🔨 Building $base"
   html_err=$(pandoc "$file" --template="$TEMPLATE" -o "$html_file" --variable="item_path:$base" 2>&1 >/dev/null)
   if echo "$html_err" | grep -Eiq "yaml.*(error|exception|parse)"; then
     skipped_files+=("$file")
