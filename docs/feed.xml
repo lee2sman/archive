@@ -4,7 +4,14 @@
     <title>➘Dig Archive</title>
     <link>https://leetusman.com/archive</link>
     <description>An archived collection of digitized media art, text, zines, videos, and other saved works from around the net, and beyond.</description>
-    <lastBuildDate>Mon, 29 Sep 2025 00:23:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 22:35:58 GMT</lastBuildDate>
     <generator>Custom Static Site Generator</generator>
+    <item>
+      <title>Practical Retrofitting for Obsolete Devices - Bridging the gap with old tech to create alternative interaction paradigms and workflows</title>
+      <link>https://leetusman.com/archive/practical-retrofitting</link>
+      <description>A paper on re-using and adapting old technology (phones, cameras, audio players, etc) to make them usable again in the age (and in contrast to) the smartphone and cloud-enabled devices.</description>
+      <guid>https://leetusman.com/archive/practical-retrofitting</guid>
+      <pubDate>Sun, 12 Oct 2025 22:35:58 GMT</pubDate>
+    </item>
   </channel>
 </rss>
