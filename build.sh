@@ -21,7 +21,7 @@ RSS_MAX_ITEMS=10
 mkdir -p "$OUTPUT_DIR"
 
 # Copy assets (css, img, font, etc.) into output directory
-cp -r "$ASSETS_SRC_DIR" "$ASSETS_DEST_DIR"
+cp -r "$ASSETS_SRC_DIR/"* "$ASSETS_DEST_DIR"
 
 # Start landing page by inserting header file
 cat "$HEADER_FILE" > "$OUTPUT_DIR/index.html"
