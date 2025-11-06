@@ -4,7 +4,14 @@
     <title>➘Dig Archive</title>
     <link>https://leetusman.com/archive</link>
     <description>An archived collection of digitized media art, text, zines, videos, and other saved works from around the net, and beyond.</description>
-    <lastBuildDate>Tue, 04 Nov 2025 23:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 14:47:06 GMT</lastBuildDate>
     <generator>Custom Static Site Generator</generator>
+    <item>
+      <title>FLOSS + Art</title>
+      <link>https://leetusman.com/archive/floss-art</link>
+      <description>An expansive work on digital artmaking and free software, sharing practices and distribution.</description>
+      <guid>https://leetusman.com/archive/floss-art</guid>
+      <pubDate>Thu, 06 Nov 2025 14:47:06 GMT</pubDate>
+    </item>
   </channel>
 </rss>
