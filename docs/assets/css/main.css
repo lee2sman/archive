@@ -139,3 +139,10 @@ button {
     line-height: 1.4;
   }
 }
+
+/* for the phone */
+@media (max-width:800px) {
+  body {
+     max-width: 90vw;
+  }
+}
