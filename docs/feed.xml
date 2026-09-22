@@ -4,14 +4,14 @@
     <title>➘Dig Archive</title>
     <link>https://leetusman.com/archive</link>
     <description>An archived collection of digitized media art, text, zines, videos, and other saved works from around the net, and beyond.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 06:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:01:33 GMT</lastBuildDate>
     <generator>Custom Static Site Generator</generator>
     <item>
-      <title>Quilt Poems: Encoding Craft Traditions as Generative Poetry</title>
-      <link>https://leetusman.com/archive/quilt-encodings</link>
-      <description>Conference paper on the process of creating generative visual quilt poems.</description>
-      <guid>https://leetusman.com/archive/quilt-encodings</guid>
-      <pubDate>Tue, 01 Sep 2026 06:23:33 GMT</pubDate>
+      <title>Collision Detection</title>
+      <link>https://leetusman.com/archive/collision-detection</link>
+      <description>A book and examples on collision detection</description>
+      <guid>https://leetusman.com/archive/collision-detection</guid>
+      <pubDate>Tue, 22 Sep 2026 20:01:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
